@@ -15,6 +15,7 @@ const corsOptions = {
   ],
   credentials: true,
 };
+https://665d76c62a91437081a24bcd--neon-griffin-df7db4.netlify.app/
 app.use(cors(corsOptions));
 app.use("/exercises", exerciseRoute);
 
