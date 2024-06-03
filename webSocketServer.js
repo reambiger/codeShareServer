@@ -7,7 +7,7 @@ const io = new Server(socketServer, {
       "http://localhost:5173",
       "http://localhost:5174",
       "http://localhost:5175",
-      "https://codeshareserver-5.onrender.com"
+      "https://665d6deb82d8ef6a16759e52--neon-griffin-df7db4.netlify.app"
     ],
     allowedHeaders: ["GET", "POST"],
   },

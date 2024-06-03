@@ -13,7 +13,7 @@ await mongoose
 
 
 app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
+  console.log(`Server running at https://codeshareserver-5.onrender.com:${port}`);
 });
 
 export default app
