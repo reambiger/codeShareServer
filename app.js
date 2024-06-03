@@ -11,7 +11,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:5174",
-    "https://665d6deb82d8ef6a16759e52--neon-griffin-df7db4.netlify.app/",
+    "https://665d6deb82d8ef6a16759e52--neon-griffin-df7db4.netlify.app",
   ],
   credentials: true,
 };
